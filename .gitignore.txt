@@ -1,0 +1,32 @@
+.gitignore
+
+
+# User-specific Visual Studio files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and diagnostic files
+*.pdb
+*.cache
+*.log
+*.tlog
+*.tmp
+*.binlog
+
+# Packages restored from project files
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+
+# Secrets and local environment files
+.env
+.env.*
+*.pfx
+*.publishsettings
+*.pubxml
+
+# Keep source, solution, project, documentation, assets, data examples,
+# and evidence required by the assignment.
